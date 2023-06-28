@@ -1,0 +1,25 @@
+{
+  "name": "bigtech_next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "bootstrap": "^5.2.3",
+    "classnames": "^2.3.2",
+    "jquery": "^3.6.3",
+    "react-countdown": "^2.3.5",
+    "react-odometerjs": "^3.1.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2"
+  }
+}
